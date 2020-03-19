@@ -1,0 +1,11 @@
+{
+  "name": "ScoreBot",
+  "version": "1.0.0",
+  "description": "will keep track of your 1v1s :3",
+  "main": "bot.js",
+  "author": "Fuggy",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
